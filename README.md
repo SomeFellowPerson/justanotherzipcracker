@@ -3,7 +3,7 @@ A python script to crack zip passwords. It works by iterating through wordlists,
 
 
 justanotherzipcracker is a CLI tool (No GUI!)  
-The Syntax goes like following:  
+The Syntax goes as follows:  
 *************************************************************  
 python crack_zip.py -w <wordlist-of-choice> -z <zip-to-crack>  
 *************************************************************  
