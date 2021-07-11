@@ -14,7 +14,8 @@ Since github won't allow me to upload any files bigger than 25MB here is a world
 that suits the zip's password pattern: https://mega.nz/file/QPoDkaxB#CERLFPgIgC5D1b-dd6SlKRVY7L4J_blTO5KT5iBcNRo  
 The wordlist contains every 1 to 4 character long combination from the alphabet (up- and lowercase) plus all digits from 0-9.    
 If you want to you can try it out for yourself, the correct password should be found at around 42%-43%.  
-Crunch command for wordlist: crunch 1 4 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -o passes.txt
+Crunch command for wordlist:  
+crunch 1 4 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -o passes.txt
   
   
 
